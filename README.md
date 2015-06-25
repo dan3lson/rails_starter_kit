@@ -15,7 +15,7 @@ that includes:
 
 ```no-highlight
 # Clone down this template
-git clone <link> <YOUR_APP_NAME>
+git clone https://github.com/dan3lson/rails_starter_kit.git <YOUR_APP_NAME>
 
 # Move into your app's directory
 cd <YOUR_APP_NAME>
