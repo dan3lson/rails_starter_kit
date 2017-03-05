@@ -11,7 +11,7 @@
 // about supported directives.
 //
 //= require jquery
-//= require tether
 //= require jquery_ujs
+//= require tether
 //= require bootstrap
 //= require_tree .
